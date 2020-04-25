@@ -4,6 +4,6 @@
 
 ### Clark Smith  
 
-Description:  this is Clark Smith's final project for UALR CPSC 4399 Webstack.  This is the django REST API "half" of the assignment.  Angular App is in a separate repo.  
+Description:  this is Clark Smith's final project for UALR CPSC 4399 Webstack.  This is the django REST API "half" of the assignment.  Angular App is in a separate repo:  https://github.com/C-Smith-UALR/angularApp  
 
 
